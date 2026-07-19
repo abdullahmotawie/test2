@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abdullah Motawie | Mechanical Engineer</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+    <div class="logo">Abdullah Motawie</div>
+
+    <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+</nav>
+
+<section class="hero">
+
+    <h1>Hello, I'm Abdullah.</h1>
+
+    <h2>Mechanical Production & Design Engineer</h2>
+
+    <p>
+        Passionate about Product Design, Manufacturing,
+        CAD Engineering, and Formula Student.
+    </p>
+
+    <div class="buttons">
+        <a href="#projects" class="btn">View Projects</a>
+        <a href="#" class="btn secondary">Download CV</a>
+    </div>
+
+</section>
+
+<section id="about">
+
+    <h2>About Me</h2>
+
+    <p>
+        I am a Mechanical Production & Design Engineering student
+        interested in product development, CAD, manufacturing,
+        simulation, and engineering innovation.
+    </p>
+
+</section>
+
+<section id="projects">
+
+    <h2>Projects</h2>
+
+    <div class="cards">
+
+        <div class="card">
+            <h3>Formula Student</h3>
+            <p>Chassis design using SolidWorks and engineering analysis.</p>
+        </div>
+
+        <div class="card">
+            <h3>CAD Designs</h3>
+            <p>Mechanical assemblies and production drawings.</p>
+        </div>
+
+        <div class="card">
+            <h3>ANSYS Simulation</h3>
+            <p>Finite Element Analysis and optimization projects.</p>
+        </div>
+
+    </div>
+
+</section>
+
+<section id="skills">
+
+    <h2>Skills</h2>
+
+    <div class="skills">
+
+        <span>SolidWorks</span>
+        <span>ANSYS</span>
+        <span>AutoCAD</span>
+        <span>Manufacturing</span>
+        <span>CAD/CAM</span>
+        <span>DFM</span>
+
+    </div>
+
+</section>
+
+<section id="contact">
+
+    <h2>Contact</h2>
+
+    <p>Email: your@email.com</p>
+
+</section>
+
+<footer>
+
+    © 2026 Abdullah Motawie
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
